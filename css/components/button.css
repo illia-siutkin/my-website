@@ -1,0 +1,40 @@
+.btn-blue{
+	background-color: #081c26;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.btn-blue:hover { 
+	background-color: darkblue;
+	font-weight: bold;
+ }
+
+.list-inline{
+	border-radius: 5px;
+	margin: 20px 0px;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	padding-left: 0px;
+	display: inline;
+	font-size: 50px;
+	color: grey;
+}
+
+.list-inline li {
+	display: inline;
+}
+
+.list-inline a {
+	color: #081c26;
+}
+
+.list-inline a:hover {
+	color: darkblue;
+}
+
+.socialnetworks {
+	margin-top: 100px;
+}
